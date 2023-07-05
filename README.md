@@ -1,4 +1,4 @@
-<h3 align="center">Hello 👋🏻</h3>
+<h3>Hello 👋🏻</h3>
 
 
 - 🔭  I write code.
